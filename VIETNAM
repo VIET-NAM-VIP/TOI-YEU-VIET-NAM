@@ -40,7 +40,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv3
 https://vmttv.dpdns.org/VTVGo/?sctv4
 
 #EXTINF:-1 tvg-id="SCTV5.vn" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV5.png", SCTV5
-https://vietanhtv.id.vn/sctv/sctv5-a3cdb592/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv5
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -68,7 +68,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv12
 https://vmttv.dpdns.org/VTVGo/?sctv13
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV14.png", SCTV14
-https://vtvgolive-sctv.vtvdigital.vn/mNPbLcw7j4O7qojj2y58yg/1785704357/6GoYKNrTy3vtvsctv/14/masterh264.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv14
 
 #EXTINF:-1 tvg-id="sctv15" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/SCTV/SCTV15.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
