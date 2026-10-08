@@ -516,9 +516,11 @@ https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/ATV3.png" group-title="Địa phương",An Giang 3
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/TTV.png",Thanh Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+https://baothanhhoa.vn/ptth/tv-m3u8
+
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/QNI1.png",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/QNI3.png",Quảng Ninh 3
