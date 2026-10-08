@@ -483,7 +483,10 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/HN1.png" group-title="Địa phương",Hà Nội 1
-https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a362f6885b1041f2b2e8282782e19e16&key=9e7f26762856474396e11bd3cfe4a778
+https://livebytatm.vtvprime.vn/live/data8/HANOI1TV/Live_DASHDRM/HANOI1TV.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/HN2.png" group-title="Địa phương",Hà Nội 2
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/DiaPhuong/THVL1.png" group-title="Địa phương",Vĩnh Long 1 HD
